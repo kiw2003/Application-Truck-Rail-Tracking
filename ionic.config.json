@@ -1,0 +1,7 @@
+{
+  "name": "Thai Rail Parcel Tracking",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
